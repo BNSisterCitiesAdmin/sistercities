@@ -167,8 +167,8 @@
       text-decoration: none;
   }
   nav a:hover {
-      color:#f8f8f8;
-      text-shadow: 2px 2px 2px #0f3455;
+      color:lightgray;
+      text-shadow: 2px 2px 2px rgb(0, 6, 61);
       border:none;
   }
   nav a img:first-child {
